@@ -1,4 +1,4 @@
-# mean-stack-full
+# mean-full-stack js
 
 <pt-br>
 Dedicado ao estudo do framework MEAN (M)ongoDB (E)xpress (A)ngular (N)odeJS.
