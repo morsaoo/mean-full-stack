@@ -1,6 +1,11 @@
-# mean-stack-full
-Mean Stack Full Study
+# mean-full-stack js
 
-Dedicado ao estudo da apostila mean-full-stack-javascript-para-aplicações-web
+<pt-br>
+Dedicado ao estudo do framework MEAN (M)ongoDB (E)xpress (A)ngular (N)odeJS.
 
-por Alexandre Ribeiro da Silva
+por Alexandre Ribeiro da Silva.
+
+<en-us>
+Dedicated to study of MEAN (M)ongoDB (E)xpress (A)ngular (N)odeJS framework.
+
+by Alexandre Ribeiro da Silva
